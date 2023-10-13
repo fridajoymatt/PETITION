@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="card">
-        <h1 align="center">ECOMERCE-EN-LARAVEL</h1>
+        <h1 align="center">PETITION WEBSITE</h1>
         <p align="center">This is a petition management website with email validation and social media sharing. Users have the option to comment, sign, and share with their contacts. A petition is considered complete when it reaches the predefined goal.</p>
       <h2 align="center">Connect with me</h2>
 
